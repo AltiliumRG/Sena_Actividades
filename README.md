@@ -1,2 +1,2 @@
 # Sena_Actividades
-Soy estudiante del SENA 
+En este repositorio ire subiendo actividades relacionadas con la carrera de ADSO del SENA
